@@ -1,0 +1,36 @@
+body
+{
+    background-image: url(./technology-background-analog-clock-time-vector.jpg);
+}
+.heading
+{
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 4%;
+    left: 32%;
+    right: 31%;
+    border: 5px solid whitesmoke;
+    border-radius: 106rem;
+    font-family:'Handjet';
+    font-weight: bolder;
+    box-shadow: 0 4px 30px rgb(218, 222, 250);
+  backdrop-filter: blur(2px);
+  background-color: rgba(255, 255, 255, 0.178);
+}
+#countTimer
+{
+    border: 2px solid white;
+  width: 719px;
+  height: 54px;
+  padding: 15px;
+  font-size: 45px;
+  border-radius: 10px;
+  font-weight: bolder;
+  box-shadow: 0 4px 30px rgb(218, 222, 250);
+  backdrop-filter: blur(2px);
+  background-color: rgba(255, 255, 255, 0.178);
+  position: absolute;
+  top: 50%;
+  left: 29%;
+}
